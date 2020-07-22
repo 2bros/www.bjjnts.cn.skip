@@ -6,7 +6,7 @@
 
 > 脚步运行环境：浏览器JS
 
-![执行效果](https://raw.githubusercontent.com/2bros/www.bjjnts.cn.skip/master/1595404576298.jpg)
+![执行效果](https://raw.githubusercontent.com/2bros/www.bjjnts.cn.skip/master/效果.png)
 
 # 一、实现功能
 秒刷课程，执行代码后，把一个目录下的课程全部刷完，变成100%。
