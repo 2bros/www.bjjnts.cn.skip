@@ -1,8 +1,8 @@
-## [北京市职业技能提升行动管理平台](https://www.bjjnts.cn/)(https://www.bjjnts.cn/) 刷课脚步
+## [北京市职业技能提升行动管理平台](https://www.bjjnts.cn/)(<https://www.bjjnts.cn/>) 刷课脚步
 
-> 适用网站：[北京市职业技能提升行动管理平台](https://www.mdeditor.com/)
+> 适用网站：[北京市职业技能提升行动管理平台](https://www.bjjnts.cn/)
 
-> 网址：https://www.bjjnts.cn/
+> 网址：<https://www.bjjnts.cn/>
 
 > 脚步运行环境：浏览器JS
 
@@ -13,7 +13,7 @@
 不需要等待课程视频全部播放完，甚至不需要播放视频，复制粘贴，代码一执行，等几秒钟，一个目录下的课程就刷完了。
 
 # 三、操作
-1 用浏览器打开要刷的课程页面，例如 https://www.bjjnts.cn/lessonStudy/210/4596 页面内容为第一个视频课程等待播放，其后还有多个视频等待播放。
+1 用浏览器打开要刷的课程页面，例如 <https://www.bjjnts.cn/lessonStudy/210/4596> 页面内容为第一个视频课程等待播放，其后还有多个视频等待播放。
 
 2 浏览器打开【开发者工具】，谷歌浏览器chrome可按快捷键： windows: `Ctrl+Shift+I` mac: `command+option+I`。
 
