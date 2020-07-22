@@ -1,7 +1,7 @@
 /**
  * author: 肖
  * 浏览器端刷课脚步
- * /
+ **/
 
 ;(()=>{
 	var chapter=location.pathname.replace(/\/\D+\/|\/\d+$/mg,'');
